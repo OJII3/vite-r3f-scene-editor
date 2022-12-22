@@ -11,7 +11,8 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-three-fiber": "^6.0.13"
+    "react-three-fiber": "^6.0.13",
+    "three": "^0.147.0"
   },
   "devDependencies": {
     "@react-three/editor": "^0.0.16",

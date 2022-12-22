@@ -1,4 +1,3 @@
-import { useRef } from "react";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Sphere, Sparkles } from "@react-three/drei";
 
