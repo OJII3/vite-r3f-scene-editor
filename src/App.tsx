@@ -24,8 +24,8 @@ const App = () => (
 			material-opacity={1}
 			material-transparent={false}
 		/>
-		<Jiraichan />
 		<JiraichanFbx />
+    <World />
 	</Canvas>
 );
 
